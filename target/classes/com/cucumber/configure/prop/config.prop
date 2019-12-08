@@ -1,0 +1,12 @@
+urlWebPage=https://www.thecarbook.com
+browserName=chrome
+implicitWait=60
+country=India
+Email=pearlinemmanuel@gmail.com
+Name=Della
+PostCode=55555
+City=Chennai
+Street=Mogappair West
+cardNumber=4357 7596 8364 1986
+expiryDate=03/22
+cvc=365
